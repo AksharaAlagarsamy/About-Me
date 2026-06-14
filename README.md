@@ -1,62 +1,38 @@
-# Hi, I'm Akshara Alagarsamy 👋
+# Hi, I'm Akshara A S 👋
 
-Cyber Security Student @ Sri Krishna College of Technology, Coimbatore
-Passionate about network security, malware analysis, and building defensive security tools.
+**Cybersecurity Practitioner | Ethical Hacking | AI Security Research | Post-Quantum Cryptography**
 
----
-
-## 🛡️ About Me
-
-- 🎓 B.Tech in Computer Science (Cyber Security)
-- 🔭 Currently building security tools and expanding my portfolio
-- 🌱 Learning — Malware Analysis, Threat Detection, Web App Security
-- 📍 Coimbatore, Tamil Nadu, India
+I'm a Computer Science Engineering student specializing in Cyber Security, focused on building real-world security tools — from AI-driven threat detection systems to post-quantum cryptographic frameworks. I'm passionate about network defense, penetration testing, and applying machine learning to solve security problems.
 
 ---
 
-## 🔧 Skills
-
-| Category | Tools & Technologies |
-|---|---|
-| Languages | C++, Python, SQL |
-| Security | Scapy, Wireshark, Aircrack-ng, YARA, Nmap |
-| Frameworks | Spring Boot, Flask |
-| Platforms | Kali Linux, Ubuntu |
-| Other | REST APIs, JPA/Hibernate, Git, Postman |
+### 🔐 What I Work On
+- **Threat Detection & SIEM** — Building real-time monitoring systems with ML-based anomaly detection, MITRE ATT&CK mapping, and GeoIP enrichment
+- **Post-Quantum Cryptography** — Implementing adaptive hybrid cryptographic engines (Kyber-1024, X25519, ChaCha20-Poly1305) with live threat scoring
+- **Wireless Security** — Developing detection tools for 802.11 attacks like deauthentication floods
+- **AI for Cybersecurity** — Applying Isolation Forest, fraud detection models, and anomaly detection to security data
 
 ---
 
-## 🚀 Projects
-
-### 🔴 Wi-Fi Deauthentication Attack Detector
-Real-time 802.11 management frame monitor that detects deauth flood attacks using sliding window analysis. Includes PCAP simulator for hardware-free testing.
-
-`Python` `Scapy` `Kali Linux` `802.11`
-[→ View Project](https://github.com/AksharaAlagarsamy/wifi-deauth-detector)
-
----
-
-### 🔴 AI-Based Network Anomaly Detection System (SIEM)
-Lightweight SIEM with real-time log monitoring, Isolation Forest ML anomaly detection, MITRE ATT&CK mapping, GeoIP enrichment, and live Streamlit dashboard.
-
-`Python` `Scikit-learn` `Tcpdump` `Matplotlib` `Kali Linux`
-[→ View Project](https://github.com/AksharaAlagarsamy/siem-system)
+### 🛠️ Tech Stack
+**Security Tools:** Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP, Nikto, Hydra, Aircrack-ng, Scapy, Tcpdump  
+**Languages:** Python, C++, Java, JavaScript, SQL  
+**Frameworks:** React.js, Flask, Spring Boot, REST APIs  
+**Data & ML:** Pandas, NumPy, Scikit-learn, Power BI  
+**Cryptography:** Kyber-1024, X25519, ChaCha20-Poly1305, MITRE ATT&CK Framework
 
 ---
 
-## 📊 GitHub Stats
-
-![Akshara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AksharaAlagarsamy&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AksharaAlagarsamy&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-alagarsamy-122861290)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AksharaAlagarsamy)
+### 🏆 Achievements
+- 🥇 Best Team Strategy Award — CyberClash Hackathon 2026 (PES University), Red vs Blue Cyber Warfare
+- 🥇 1st Place — Technical Quiz, BIT
+- ✅ Ethical Hacker — CISCO Networking Academy
+- ✅ Learning React.js — Infosys Springboard
 
 ---
 
-*"Security is not a product, but a process."* — Bruce Schneier
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/akshara-alagarsamy) • akshara191206@gmail.com
+
+---
+⭐️ *Always exploring new ways to break — and defend — systems.*
